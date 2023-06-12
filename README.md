@@ -1,5 +1,5 @@
-# Java Script tienda de instrumentos.
+# Java Script e commerce.
 
-## Casa de instrumentos Creedence
+## Creedence's Drum House
 
 Por: Laureno Cofré# idea-CofreLaureano
